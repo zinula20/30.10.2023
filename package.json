@@ -11,5 +11,8 @@
     "url": "(https://github.com/zinula20/30.10.2023)"
   },
   "author": "zin s",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
