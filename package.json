@@ -1,0 +1,15 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "main1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/zinula20/30.10.2023)"
+  },
+  "author": "zin s",
+  "license": "ISC"
+}
